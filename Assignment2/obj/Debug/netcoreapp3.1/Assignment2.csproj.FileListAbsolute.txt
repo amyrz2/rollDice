@@ -1,0 +1,14 @@
+/Users/amyzhang/Desktop/IS 413/Assignment2/Assignment2/obj/Debug/netcoreapp3.1/Assignment2.csproj.AssemblyReference.cache
+/Users/amyzhang/Desktop/IS 413/Assignment2/Assignment2/obj/Debug/netcoreapp3.1/Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amyzhang/Desktop/IS 413/Assignment2/Assignment2/obj/Debug/netcoreapp3.1/Assignment2.AssemblyInfoInputs.cache
+/Users/amyzhang/Desktop/IS 413/Assignment2/Assignment2/obj/Debug/netcoreapp3.1/Assignment2.AssemblyInfo.cs
+/Users/amyzhang/Desktop/IS 413/Assignment2/Assignment2/obj/Debug/netcoreapp3.1/Assignment2.csproj.CoreCompileInputs.cache
+/Users/amyzhang/Desktop/IS 413/Assignment2/Assignment2/bin/Debug/netcoreapp3.1/Assignment2
+/Users/amyzhang/Desktop/IS 413/Assignment2/Assignment2/bin/Debug/netcoreapp3.1/Assignment2.deps.json
+/Users/amyzhang/Desktop/IS 413/Assignment2/Assignment2/bin/Debug/netcoreapp3.1/Assignment2.runtimeconfig.json
+/Users/amyzhang/Desktop/IS 413/Assignment2/Assignment2/bin/Debug/netcoreapp3.1/Assignment2.runtimeconfig.dev.json
+/Users/amyzhang/Desktop/IS 413/Assignment2/Assignment2/bin/Debug/netcoreapp3.1/Assignment2.dll
+/Users/amyzhang/Desktop/IS 413/Assignment2/Assignment2/bin/Debug/netcoreapp3.1/Assignment2.pdb
+/Users/amyzhang/Desktop/IS 413/Assignment2/Assignment2/obj/Debug/netcoreapp3.1/Assignment2.dll
+/Users/amyzhang/Desktop/IS 413/Assignment2/Assignment2/obj/Debug/netcoreapp3.1/Assignment2.pdb
+/Users/amyzhang/Desktop/IS 413/Assignment2/Assignment2/obj/Debug/netcoreapp3.1/Assignment2.genruntimeconfig.cache
